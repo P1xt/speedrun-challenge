@@ -1,4 +1,4 @@
-# Chingu Speedrun Challenge
+# Speedrun Challenge
 
 ## Progress
 
