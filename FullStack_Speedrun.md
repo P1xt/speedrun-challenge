@@ -6,8 +6,13 @@
 * Do projects in order, no skipping around.
 * Mark Complete Date as "Before Speedrun" for any projects you completed before the Speedrun.
 
-Start date:  
+-----
+
+Start date:    
 End Date:
+Projects Completed: 0
+
+-----
 
 | Project                                                                                  | Complete Date | Blog Post | Code Link | Demo |
 | ---------------------------------------------------------------------------------------- | ------------- | --------- | --------- | ---- |

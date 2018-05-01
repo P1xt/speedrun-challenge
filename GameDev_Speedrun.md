@@ -3,8 +3,13 @@
 * Use the Game Engine of your choosing (or none if you want to "from scratch" it)
 * Don't get sued for copyright - mark clones as clones, attribute resources, etc.
 
-Start date:
+-----
+
+Start date:    
 End Date:
+Projects Completed: 0
+
+-----
 
 | Project                      | Complete Date | Blog Post | Code Link | Demo |
 | ---------------------------- | ------------- | --------- | --------- | ---- |

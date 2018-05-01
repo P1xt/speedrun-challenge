@@ -3,8 +3,13 @@
 * Use any language that the grader supports
 * Proceed in order, skip no problems
 
-Start date:  
+-----
+
+Start date:    
 End Date:
+Projects Completed: 0
+
+-----
 
 | Project                                        | Complete Date | Blog Post | Code Link |
 | ---------------------------------------------- | ------------- | --------- | --------- |

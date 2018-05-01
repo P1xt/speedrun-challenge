@@ -2,15 +2,17 @@
 
 * Use whatever frameworks or libraries you want
 * Don't get sued for copyright - mark clones as clones, attribute resources, etc.
-* Feel free to do an "inspired by" rather than a direct clone
 * Do projects in order, no skipping around. 
 * Mark Complete Date as "Before Speedrun" for any projects you completed before the Speedrun.
 
 
+-----
+
 Start date:    
 End Date:
+Projects Completed: 0
 
-
+-----
 
 | Project                                                                                     | Complete Date | Blog Post | Code Link | Demo |
 | ------------------------------------------------------------------------------------------- | ------------- | --------- | --------- | ---- |
