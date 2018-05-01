@@ -7,8 +7,9 @@
 * Mark Complete Date as "Before Speedrun" for any projects you completed before the Speedrun (unless you redo them during the Speedrun).
 
 -----
+
 Start date:    
-End Date:
+End Date:     
 Projects Completed: 0
 
 -----

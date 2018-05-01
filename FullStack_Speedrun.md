@@ -9,7 +9,7 @@
 -----
 
 Start date:    
-End Date:
+End Date:     
 Projects Completed: 0
 
 -----
