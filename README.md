@@ -1,97 +1,93 @@
-# Chingu FCC Speedrun Challenge
+# Chingu Speedrun Challenge
+
+## Progress
+
+Add an entry here for each speedrun you undertake
+
+| Speedrun | Start Date | End Date | Projects Completed | Completed Portfolio |
+| -------- | ---------- | -------- | ------------------ | ------------------- |
+|          |            |          |                    |                     |
+|          |            |          |                    |                     |
+|          |            |          |                    |                     |
+|          |            |          |                    |                     |
+|          |            |          |                    |                     |
+|          |            |          |                    |                     |
 
 ## Details
 
-Fork this repository and add your code for each project to the appropriate folder in your repository. As you complete each project, write a blog post about your experience (most publish their blog posts to Medium so they can be easily added to the Chingu Medium publication, but you are free to post wherever you are most comfortable).
+* Fork this repository
+* Pick which speedrun you want to run, add it to this README's Progress chart
+* Make note of your start date, and an end date one month later
+* Start coding
 
-You may work in pairs for phase 1 and you and your pair may share the same repository for phase 1. For phase 2, each participant should create a new repository to contain their personal Portfolio SPA.
+### The goal
 
+Complete as many projects as you can in one month.
+### Speedrun options
 
-### The goal (Phase 1)
+* [FreeCodeCamp Speedrun](./FCC_Speedrun.md)
+* [Game Development Speedrun](./GameDev_Speedrun.md)
+* [Frontend Speedrun](./Frontend_Speedrun.md)
+* [Angular Frontend Speedrun](./Angular_Frontend_Speedrun.md)
+* [Vue Frontend Speedrun](./Vue_Frontend_Speedrun.md)
+* [React Frontend Speedrun](./React_Frontend_Speedrun.md)
+* [Full Stack Speedrun](./FullStack_Speedrun.md)
+* [Open Source PR Speedrun](./Open_Source_Speedrun.md)
+* [Algorithms Speedrun](./Algorithms_Speedrun.md)
 
-Complete as many of the FCC Projects as you can in a three week period. To be considered complete: the code for the project should be committed to the appropriate folder in your fork of this repository, you should have created a blog post about your experience working on the project, and you should "check off" this project in this readme file, adding a link to your blog post.
-
-To prepare for Phase 2 you'll want to ensure that you use the same "stack" (same backend language, same frontend framework) and keep to a consistent coding style across projects.
-
-**Time limit:** three weeks
-
-### The goal (Phase 2)
-
-Integrate all of the FCC Projects you created in Phase 1 into one comprehensive single page portfolio application.
-
-**Time limit:** one week
-
-**Deadline to complete both Phases:**
-
-One month from the day you started.
 
 ### The Rules
 
-* Pick one stack (backend language and frontend framework) and stick to it (it'll make Phase 2 easier). Any stack is fine, but stick to just one.
 * You may reuse code you previously wrote, but try to improve on your prior effort in some way.
-* You may work in pairs for Phase 1 and contribute to a shared repository for Phase 1.
-* Each individual must complete Phase 2 solo, in their own repository.
-* For each project in Phase 1, each participant must write their own blog post about their experience working on that project. This can be on your own blog, Medium, wherever and can contain whatever you want: a brief blog style ramble about how you felt during the project, a tutorial explaining some concept you learned during the project, a series of photos showing your cat sleeping on your desk while you worked on the project - whatever - but something.
-* All code for Phase 1 should be committed to your fork of this repo.
-* Phase 2 code should be in a separate repository each participant creates to contain their personal Portfolio SPA.
 * You may ask for help and help others - preference should always be given to helping someone understand, not handing them code they don't.
-* If someone is stuck, you may pair with them to help them get unstuck (on as many projects as you want) even if you're doing your own entry separately or with another pair. 
+* If someone is stuck, you may pair with them to help them get unstuck.
 * If someone pairs with you to help you get unstuck, be sure to make a note to credit them in your repo and in your blog posts.
 
 ### Deliverables
 
-* For Phase 1, all of your code should be committed/pushed to the appropriate directories in your fork of this repository.
-* For Phase 1, you do NOT need to host the projects on a live site, merely test them locally, then commit your code. You can, of course, host a demo of the project if you want to though.
-* For Phase 1, you must write a blog post for each project you complete and link to it in the projects table (in your fork of) this README file.
-* For Phase 2, you must each create a repository to hold your individual Phase 2 project, then link to that project in the portfolio/README.md file of this project.
-* For Phase 2, you must both commit your code to github, and host a live version of your project.
+* as many projects as you can complete in one month
+* For each project, you must write a blog post.
+* For each project, you must link to your code in a git repository.
+* For each "web based" project, you must link to a running demo that's accessible on the web. (Not necessary for projects without a web component, such as pull requests, algorithms, or mobile or desktop apps.)
+* You may combine multiple projects into one git repository.
 
 ### The Competition
 
-Who can complete the most projects in Phase 1?
-
-Who can make the most complete and professional looking portfolio in Phase 2?
+How many projects can you complete in one month?
 
 **Note:** This is the type of competition where, yes, winning is awesome, but participating and giving it your all is the best prize, and everyone can get that :D
 
-## FCC Projects
+### One week "pre-speedrun" prep
 
-Copy this table as needed to make a separate table for each team member for recording blog posts
+* Regardless which speedrun you pick, you're going to want to know how to create a git repository, and save your code to it - you can use Github, Gitlab or Bitbucket, they all work the same. Get git setup on your PC before you start the speedrun.
+* You will want an editor that you are familiar with setup on your PC. If you already have that, good. If you don't, I recommend Visual Studio Code.
+* If you're doing a FCC or Frontend Speedrun and need some HTML/CSS practice, I'd recommend [Shay Howe](https://learn.shayhowe.com/).
+* If you're doing an Angular, React or Vue Speedrun, I recommend looking at their official docs and following the beginner guides, build the demo app.
+* If you're doing a Game Development Speedrun, I recommend installing and configuring your engine of choice, working through their intro guide, and becoming familiar with their docs.
+* If you're doing an Algorithms Speedrun, I recommend doing a quick readthrough of the docs for whatever language you'll be using, and a skim through [Open Data Structures](http://opendatastructures.org/).
 
-Start date: 
+### HTML / CSS prep for Frontend or CSS challenge
 
-| Complete Date | Blog Post |Project  |
-|----------|---------|----------|
-|      | N/A| [Comprehensive Portfolio as a Single Page App](./portfolio) |   |
-|      |  [ ]()  | [Build a Tribute Page](./frontend/tribute-page) |  |
-|      |  [ ]()  | [Build a Personal Portfolio Webpage](./frontend/portfolio) |  |
-|      |  [ ]()  | [Build a Random Quote Machine](./frontend/random-quote-machine) |  |
-|      |  [ ]()  | [Show the Local Weather](./frontend/local-weather) |  |
-|      |  [ ]()  | [Build a Wikipedia Viewer](./frontend/wikipedia-viewer) |  |
-|      |  [ ]()  | [Use the Twitch.tv JSON API](./frontend/twitch-client) |  |
-|      |  [ ]()  | [Build a JavaScript Calculator](./frontend/calculator) |  |
-|      |  [ ]()  | [Build a Pomodoro Clock](./frontend/pomodoro-clock) |  |
-|      |  [ ]()  | [Build a Tic Tac Toe Game](./frontend/tictactoe-game) |  |
-|      |  [ ]()  | [Build a Simon Game](./frontend/simon-game) |  |
-|      |  [ ]()  | [Build a Markdown Previewer](./data-vis/markdown-previewer) |  |
-|      |  [ ]()  | [Build a Camper Leaderboard](./data-vis/camper-leaderboard) |  |
-|      |  [ ]()  | [Build a Recipe Box](./data-vis/recipe-box) |  |
-|      |  [ ]()  | [Build the Game of Life](./data-vis/game-of-life) |  |
-|      |  [ ]()  | [Build a Roguelike Dungeon Crawler](./data-vis/dungeon-crawler) |  |
-|      |  [ ]()  | [Visualize Data with a Bar Chart](./data-vis/bar-chart) |  |
-|      |  [ ]()  | [Visualize Data with a Scatterplot Graph](./data-vis/scatterplot-graph) |  |
-|      |  [ ]()  | [Visualize Data with a Heat Map](./data-vis/heat-map) |  |
-|      |  [ ]()  | [Show National Contiguity with a Force Directed Graph](./data-vis/force-directed-graph) |  |
-|      |  [ ]()  | [Map Data Across the Globe](./data-vis/data-across-globe) |  |
-|      |  [ ]()  | [Timestamp Microservice](./backend/api-timestamp) |  |
-|      |  [ ]()  | [Request Header Parser Microservice](./backend/api-request-header) |  |
-|      |  [ ]()  | [URL Shortener Microservice](./backend/api-url-shortener) |  |
-|      |  [ ]()  | [Image Search Abstraction Layer](./backend/api-image-search) |  |
-|      |  [ ]()  | [File Metadata Microservice](./backend/api-file-metadata) |  |
-|      |  [ ]()  | [Build a Voting App](./backend/app-voting) |  |
-|      |  [ ]()  | [Build a Nightlife Coordination App](./backend/app-nightlife) |  |
-|      |  [ ]()  | [Chart the Stock Market](./backend/app-stock-market) |  |
-|      |  [ ]()  | [Manage a Book Trading Club](./backend/app-book-trading) |  |
-|      |  [ ]()  | [Build a Pinterest Clone](./backend/app-pinterest-clone) |  |
+Extra resources for if you really need to prepare, or if you're doing the CSS challenge which involves a lot of pure CSS animations (which you might not have encountered before.)
 
+#### Total Basics — if you’re just starting out with CSS:
 
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) — focus on the CSS portions
+* [CSS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT) — Overview of the basics.
+* [CSS Positioning Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh) — Basic CSS for positioning content.
+
+#### Further Study — if you want to prep more for general CSS:
+
+* [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) — focus on the CSS portions
+* [CSS Flexbox Tutorial](https://www.youtube.com/watch?v=Y8zMYaD1bz0&list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG) — Additional tool for positioning content.
+* [CSS Animation Tutorial](https://www.youtube.com/watch?v=jgw82b5Y2MU&list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5) — Quick yet informative overview of CSS Animations.
+
+#### Advanced Study — A further boost:
+
+* [SASS Tutorial](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) — Quick tutorial of the basics of Sass
+* [CSS Tips & Tricks](https://www.youtube.com/watch?v=B9OZkATMbag&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF4kk) — A few quick Tips that may come in handy
+* [Getting Sassy with CSS](http://www.sassshop.com/#/) — In depth coverage of Sass
+* [SVG Tutorial: With CSS Animation](https://www.youtube.com/watch?v=IM8eTD01UE8) — Quick intro to SVG for drawing images which you can then manipulate with CSS
+* [Sass Workflow & Dev Server From Scratch Using Gulp](https://www.youtube.com/watch?v=rmXVmfx3rNo) — for setting up Sass in your local development environment
+* [Jade/Pug Tips in 90 Seconds](https://www.youtube.com/watch?v=JqCs1pdmf9o&list=PLHrxuCR-0CcSWiMuLf58iuIsNlP549-Sk) — for those times you need to use a for loop to make a lot of HTML elements
+* [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y) — awesome tool for coding quickly (if you’re not already using it, check it out)
