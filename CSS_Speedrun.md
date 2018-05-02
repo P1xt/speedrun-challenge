@@ -73,7 +73,7 @@ Projects Completed: 0
 | Clone [055 - Thermostat](https://codepen.io/roydigerhund/pen/XdeXbR) |               |           |           |      |
 | Clone [056 - Flower](https://codepen.io/P1xt/pen/eGGZGN) |               |           |           |      |
 | Clone [057 - Icosahedron](https://codepen.io/roydigerhund/pen/QNqZWp) |               |           |           |      |
-| Clone [058 - 3D Sphere](058 - 3D Sphere) |               |           |           |      |
+| Clone [058 - 3D Sphere](https://codepen.io/P1xt/pen/RLLaZx) |               |           |           |      |
 | Clone [059 - Slice Transition](https://codepen.io/P1xt/pen/MEEyvg) |               |           |           |      |
 | Clone [060 - Blurry Overlay](https://codepen.io/P1xt/pen/boopRQ) |               |           |           |      |
 | Clone [061 - CSS Gradient Transition](https://codepen.io/P1xt/pen/PJJNja) |               |           |           |      |
