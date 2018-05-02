@@ -28,6 +28,7 @@ Complete as many projects as you can in one month.
 * [FreeCodeCamp Speedrun](./FCC_Speedrun.md)
 * [Game Development Speedrun](./GameDev_Speedrun.md)
 * [Frontend Speedrun](./Frontend_Speedrun.md)
+* [CSS Speedrun](./CSS_Speedrun.md)
 * [Angular Frontend Speedrun](./Angular_Frontend_Speedrun.md)
 * [Vue Frontend Speedrun](./Vue_Frontend_Speedrun.md)
 * [React Frontend Speedrun](./React_Frontend_Speedrun.md)
