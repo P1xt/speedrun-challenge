@@ -44,7 +44,7 @@ Projects Completed: 0
 | Clone [Ziggy](http://www.tooplate.com/live/2091-ziggy)                |               |           |           |      |
 | Clone [Kinetic](http://www.tooplate.com/live/2090-kinetic)                |               |           |           |      |
 | Clone [Kalay](http://www.tooplate.com/live/2087-kalay)                |               |           |           |      |
-| Clone [Meteor](http://www.tooplate.com/live/2089-meteorhttp://www.tooplate.com/live/2089-meteor)                |               |           |           |      |
+| Clone [Meteor](http://www.tooplate.com/live/2089-meteor)                |               |           |           |      |
 | Clone [ComingSoon](https://blackrockdigital.github.io/startbootstrap-coming-soon/)                |               |           |           |      |
 | Clone [Resume](https://blackrockdigital.github.io/startbootstrap-resume/)                |               |           |           |      |
 | Clone [NewAge](https://blackrockdigital.github.io/startbootstrap-new-age/)                |               |           |           |      |

@@ -46,7 +46,7 @@ Projects Completed: 0
 | Clone [028 - Checklist](https://codepen.io/P1xt/pen/QqqNxX) |               |           |           |      |
 | Clone [029 - Ring Ring](https://codepen.io/P1xt/pen/veeGaR) |               |           |           |      |
 | Clone [030 - Search field](https://codepen.io/P1xt/pen/rGGeZe) |               |           |           |      |
-| Clone [031 - Pendulum Wave ](https://codepen.io/P1xt/pen/RLLaJy) |               |           |           |      |
+| Clone [031 - Pendulum Wave](https://codepen.io/P1xt/pen/RLLaJy) |               |           |           |      |
 | Clone [032 - Counter](https://codepen.io/P1xt/pen/MEEyBw) |               |           |           |      |
 | Clone [033 - Sunny day](https://codepen.io/P1xt/pen/wrrGXN) |               |           |           |      |
 | Clone [034 - Hello](https://codepen.io/P1xt/pen/gGGrKd) |               |           |           |      |
@@ -73,7 +73,7 @@ Projects Completed: 0
 | Clone [055 - Thermostat](https://codepen.io/roydigerhund/pen/XdeXbR) |               |           |           |      |
 | Clone [056 - Flower](https://codepen.io/P1xt/pen/eGGZGN) |               |           |           |      |
 | Clone [057 - Icosahedron](https://codepen.io/roydigerhund/pen/QNqZWp) |               |           |           |      |
-| Clone [058 - 3D Sphere](058 - 3D Sphere) |               |           |           |      |
+| Clone [058 - 3D Sphere](https://codepen.io/P1xt/pen/RLLaZx) |               |           |           |      |
 | Clone [059 - Slice Transition](https://codepen.io/P1xt/pen/MEEyvg) |               |           |           |      |
 | Clone [060 - Blurry Overlay](https://codepen.io/P1xt/pen/boopRQ) |               |           |           |      |
 | Clone [061 - CSS Gradient Transition](https://codepen.io/P1xt/pen/PJJNja) |               |           |           |      |
@@ -97,7 +97,7 @@ Projects Completed: 0
 | Clone [079 - Lines Animation](https://codepen.io/P1xt/pen/MEEyJN) |               |           |           |      |
 | Clone [080 - Flexbox Accordeon](https://codepen.io/P1xt/pen/jGGqyJ) |               |           |           |      |
 | Clone [081 - Jumping Ball](https://codepen.io/P1xt/pen/OxxNWE) |               |           |           |      |
-| Clone [082 - Responding Button]()https://codepen.io/P1xt/pen/gGGrge |               |           |           |      |
+| Clone [082 - Responding Button](https://codepen.io/P1xt/pen/gGGrge) |               |           |           |      |
 | Clone [083 - Warp Drive](https://codepen.io/P1xt/pen/dVVMNW) |               |           |           |      |
 | Clone [084 - Book Cover](https://codepen.io/P1xt/pen/eGGZgY) |               |           |           |      |
 | Clone [085 - It's something](https://codepen.io/P1xt/pen/MEEybN) |               |           |           |      |
